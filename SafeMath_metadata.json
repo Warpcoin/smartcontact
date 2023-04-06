@@ -1,0 +1,36 @@
+{
+	"compiler": {
+		"version": "0.4.24+commit.e67f0147"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Warp.sol": "SafeMath"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Warp.sol": {
+			"keccak256": "0xa3009018462a162c186608d62777c7bd8c7b511dabcd9a6435befe3651198042",
+			"urls": [
+				"bzzr://4c53dd3c5154a6bb2140c228b0a2b150638663533869444fb2ac8500ec6c69bd"
+			]
+		}
+	},
+	"version": 1
+}
